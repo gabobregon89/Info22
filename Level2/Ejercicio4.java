@@ -26,5 +26,6 @@ public class Ejercicio4 {
         System.out.println(curso1);
         System.out.println(curso2);
         System.out.println(curso3);
+
     }
 }
